@@ -7,7 +7,7 @@
 <div align="center">
 <img src="Aju.jpg" alt="aju" width="200" />
 
-## 🚀AJU SER🚀 
+## 🚀ABHI SER🚀 
 
 </div>
 
