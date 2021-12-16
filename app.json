@@ -2,7 +2,7 @@
   "name": "ABHI SER BOT",
   "description": "ajuser bot build with nodejs",
   "repository": "https://github.com/aju001/ABHI SER",
-  "logo": "https://i.ibb.co/kQ98t1k/AJU.jpg",
+  "logo": "https://i.ibb.co/kQ98t1k/ABHI.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
